@@ -1,7 +1,7 @@
 # potato_disease_classification
 it will classify the leaf is  healthy, early blight , late blight
 
-Step-1 : Importing necessary libraries 
+Step-1 : Importing necessary libraries
 Step-2 : Setting some constants require for it.
 Step-3 : Loading dataset
 Step-4 : Preprocessing steps for images
